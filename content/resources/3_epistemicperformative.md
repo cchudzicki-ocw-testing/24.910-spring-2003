@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Tibetan Indirect Evidentials as Performative Epistemic Modals
-type: OCWFile
 uid: c8657a19-1da4-5c1f-7437-f23293f793cf
 ---

@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Evidential Systems
-type: OCWFile
 uid: a328218c-4e51-f7cc-4370-a5c544e94db3
 ---
