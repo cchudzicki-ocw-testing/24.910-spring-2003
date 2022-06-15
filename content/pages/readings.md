@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on course readings and links to web sites
+  on related topics.
 draft: false
 learning_resource_types:
 - Readings
