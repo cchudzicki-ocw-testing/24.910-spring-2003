@@ -5,6 +5,7 @@ file: /courses/24-910-topics-in-linguistics-theory-spring-2003/d2227e3608dd67eb6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
